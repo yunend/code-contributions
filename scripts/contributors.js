@@ -1,0 +1,3 @@
+const cardFiles = [
+  "gokultp.html",
+];
