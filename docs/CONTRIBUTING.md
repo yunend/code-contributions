@@ -13,10 +13,10 @@ git clone "url you copied"
 ```
 
 > [!IMPORTANT]
-> In the following steps, when you see `<your-github-id>` your should replace it with your GitHub ID.
-> For example, if your GitHub ID is `aaronsw`,
-> `git switch -c add-<your-github-id>` becomes `git switch -c add-aaronsw`
-> `contributors/<your-github-id>.html` becomes `contributors/aaronsw.html
+> In the following steps, when you see `<your-github-id>` your should replace it with your GitHub ID.  
+> For example, if your GitHub ID is `aaronsw`,  
+> `git switch -c add-<your-github-id>` becomes `git switch -c add-aaronsw`  
+> `contributors/<your-github-id>.html` becomes `contributors/aaronsw.html`  
 
 ## Create a branch
 
