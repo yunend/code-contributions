@@ -1,3 +1,4 @@
-const cardFiles = [
+const contributorFiles = [
+  "roshanjossey.html",
   "gokultp.html",
 ];
