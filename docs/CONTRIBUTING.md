@@ -1,16 +1,22 @@
 # Steps to contribute
 
+<img align="right" width="250" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
 ## Fork this repository by clicking on fork button
 
 ## Clone your fork of this repository.
 
+
 In your fork of this repository, click on code button. Select SSH tab and then click on `copy to clipboard` button.
 
+<img align="right" width="250" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 Open a terminal and run `git clone` command
 
 ```bash
 git clone "url you copied"
 ```
+
+<img align="right" width="250" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 > [!IMPORTANT]
 > In the following steps, when you see `<your-github-id>` your should replace it with your GitHub ID.  
