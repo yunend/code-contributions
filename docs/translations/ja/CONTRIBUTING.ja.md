@@ -1,14 +1,15 @@
 # 貢献するためのステップ
 
-<img align="right" width="250" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="このリポジトリをフォークする" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="このリポジトリをフォークする" />
 
 ## fork ボタンをクリックしてこのリポジトリをフォークする
 
 ## このリポジトリのフォークをクローンする。
 
-<img align="right" width="250" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="このリポジトリをクローンする" />
-
 このリポジトリのフォークで、コードボタンをクリックします。SSHタブを選択し、`copy to clipboard` ボタンをクリックします。
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="このリポジトリをクローンする" />
+
 
 ターミナルを開き、`git clone` コマンドを実行します。
 
@@ -17,13 +18,13 @@
 git clone "コピーしたURL"
 ```
 
-<img align="right" width="250" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URLをクリップボードにコピーする" />
-
 > [!IMPORTANT]
 > 以下の手順では、`<your-github-id>` と表示されたら、それを自分の GitHub ID に置き換えてください。
 > 例えば、あなたの GitHub ID が `aaronsw` の場合、
 > git switch -c add-<your-github-id>` は `git switch -c add-aaronsw` となります。
 > `contributors/<your-github-id>.html` は `contributors/aaronsw.html` になります。
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URLをクリップボードにコピーする" />
 
 ## ブランチを作成する
 
