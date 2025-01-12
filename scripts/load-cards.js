@@ -1,13 +1,9 @@
 function createCard(contributor) {
-    const cardDiv = document.createElement('div');
-    cardDiv.className = 'card col col-6-md col-3-lg bd-grey';
-    
     const iframe = document.createElement('iframe');
+    iframe.className = 'card col col-6-md col-3-lg bd-grey';
     iframe.src = `contributors/${contributor}`;
     iframe.title = contributor
-    
-    cardDiv.appendChild(iframe);
-    document.getElementById('cards-container').appendChild(cardDiv);
+    document.getElementById('contributor-cards').appendChild(iframe);
 }
 
 contributorFiles.forEach(contributor => createCard(contributor));
